@@ -54,19 +54,17 @@ Feature correlation analysis
 Understanding dataset patterns for machine learning
 
 📸 Sample Visuals
-(1) Correlation
+**(1) Correlation**
 <img width="1182" height="861" alt="image" src="https://github.com/user-attachments/assets/bd657256-1ae5-4452-b81b-0d2b64fe7217" />
 
-(2) Bar Chart Wine Quality with Count
+**(2) Bar Chart Wine Quality with Count**
 <img width="1049" height="784" alt="image" src="https://github.com/user-attachments/assets/bd127a1d-502f-441f-8adf-3c4437028776" />
 
-(3) Pairplot with all the columns
+**(3) Pairplot with all the columns**
 <img width="1182" height="1184" alt="image" src="https://github.com/user-attachments/assets/55c0249f-2611-4e5b-afb1-3d717359a8cc" />
 
-(4) ScatterPlot Alochol with pH
+**(4) ScatterPlot Alochol with pH**
 <img width="1068" height="821" alt="image" src="https://github.com/user-attachments/assets/f501e380-d2cd-4877-aacc-e46473fe481e" />
-
-🔖 Author
 
 👤 Aditya
 📍 Aspiring Data Analysis | AI Enthusiast
